@@ -180,7 +180,7 @@ section { padding: clamp(2.2rem, 5.5vw, 4rem) clamp(1rem, 4vw, 2.5rem); max-widt
   .nav__links {
     position: absolute; top: 100%; left: 0; right: 0;
     flex-direction: column; align-items: stretch; gap: 0;
-    background: rgba(8, 9, 11, 0.97); border-bottom: 1px solid var(--glass-border);
+    background: #08090B; border-bottom: 1px solid var(--glass-border);
     display: none;
   }
   .nav__links.is-open { display: flex; }

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anasamin822-dotcom.github.io/diamond-motor-workshop/sitemap.xml
